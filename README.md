@@ -4,7 +4,7 @@
 Web Developer
 -------------
 
-I'm Working on both front-end and back-end systems from several months . I have also intermediate knowledge of PHP,C#,JAVA, and JavaScript . With that being said, I focus to keep up with the new trends in the market and nourish my skills as much as possible.. I love to create nice and beautiful websites. I stand on the sweet spot where front-end and back-end development blend.
+"A driven and knowledgeable web developer, constantly honing my skills in HTML, CSS, JavaScript, React JS, Node JS, and MongoDB. With a 3.5 CGPA in BSCS from National University of Modern Languages and a background in various data structures, I am well-equipped to tackle any challenge. Explore my GitHub repository to see the results of my passion for web development."
 
 *   🌍  I'm based in Islamabad, Pakistan
 *   ✉️  You can contact me at [sardar142bilal@gmail.com](mailto:sardar142bilal@gmail.com)
