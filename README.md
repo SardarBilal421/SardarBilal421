@@ -1,7 +1,7 @@
 Hi 👋 My name is Sardar Bilal Rehman
 =============================
 
-Web Developer
+MERN Stack Developer
 -------------
 
 "A driven and knowledgeable web developer, constantly honing my skills in HTML, CSS, JavaScript, React JS, Node JS, and MongoDB. With a 3.5 CGPA in BSCS from National University of Modern Languages and a background in various data structures, I am well-equipped to tackle any challenge. Explore my GitHub repository to see the results of my passion for web development."
