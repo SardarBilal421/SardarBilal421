@@ -1,4 +1,4 @@
-# SardarBilal142Hi 👋 My name is Bilal Rehman
+Hi 👋 My name is Sardar Bilal Rehman
 =============================
 
 Web Developer
